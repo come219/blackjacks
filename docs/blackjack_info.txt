@@ -1,0 +1,43 @@
+Blackjack card game:
+
+description
+
+
+Rules:
+
+closest to 21 wins
+over 21 and bust/lose
+
+
+Blackjack gamemodes:
+
+	
+	Simple Blackjack: cards are secret to other players, no split, no rotating dealer.
+
+	American/Casino/Standard Blackjack: reveals the first dealt card, can split, etc...
+	
+	Rotating Dealer Blackjack: whoever wins the round becomes the dealer.
+
+	Quantum Blackjack: uses a quantum computer backend for retrieving the random card
+
+
+for the backend / general notes:	
+	Lobby system and blackjack game instance
+	
+	Low, Mid, High roll, in each of the gamemodes (entry to play). 
+
+	MMR system? Level system?
+
+	Betting system...
+
+	Using balance of another game...
+
+	
+
+	
+
+
+
+
+
+
